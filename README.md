@@ -5,4 +5,4 @@
 | Example | Description |
 | --- | --- |
 | [databse](https://github.com/mrtoadie/go-examples/tree/main/database_example) | |
-| [start bash script](https://github.com/mrtoadie/go-examples/tree/main/star_bash_script_example) | |
+| [start bash script](https://github.com/mrtoadie/go-examples/tree/main/start_bash_script_example) | |
