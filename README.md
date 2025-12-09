@@ -4,5 +4,5 @@
 ## let it go!
 | Example | Description |
 | --- | --- |
-| databse | |
-| start bash script | |
+| [databse](https://github.com/mrtoadie/go-examples/tree/main/database_example) | |
+| [start bash script](https://github.com/mrtoadie/go-examples/tree/main/star_bash_script_example) | |
